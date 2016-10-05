@@ -1,7 +1,18 @@
 
 body {
-background-color: floralwhite
+background-color: black
+
 }
 
 h1{font-family:Cursive
+
+}
+h1 {
+color : white;
+}
+h2{
+color : white;
+}
+p {
+color : white;
 }
